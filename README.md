@@ -1,4 +1,4 @@
-# How to Develop an AI Chatbot Application with Python Django and Google Gemini API
+#AI Chatbot Application with Python Django and Google Gemini API
 
 This guide equips you with the steps to bring your chatbot to life, empowering you to create engaging user experiences with a powerful AI chatbot built using Django and Google Gemini API.
 
