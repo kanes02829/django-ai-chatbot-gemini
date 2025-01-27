@@ -2,13 +2,6 @@
 
 This guide equips you with the steps to bring your chatbot to life, empowering you to create engaging user experiences with a powerful AI chatbot built using Django and Google Gemini API.
 
-## About the author - André Gervásio
-
-20+ years of experience in software development. Bachelor's degree in Computer Science. Fullstack Software Engineer and Tech Lead in Java, Python, JS, PHP applications. Certified in Front-End, Back-End and DevOps technologies. Experienced in Scrum and Agile Methodologies. Solid knowledge in Databases and ORMs. Practical skills in Cloud Computing Services.
-
-[Visit my LinkedIn](https://www.linkedin.com/in/andregervasio/)
-
-
 ## 1. Install Python and Django
 
 Before diving into code, ensure you have the following tools:
